@@ -14,8 +14,11 @@
 # Italic
 | .styles.italic.font = "SFPro-RegularItalic"
 
+# BoldItalic
+| .styles.boldItalic.font = "SFPro-SemiboldItalic"
+
 # Titles
-| .styles.body.[
+| .styles.[
     "title1",
     "title2",
     "title3",
@@ -29,3 +32,4 @@
     "title-mark5",
     "title-mark6"
   ].font = "SFPro-Light"
+
