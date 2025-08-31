@@ -10,13 +10,14 @@ the JSON file. This allows for updating after the default themes change.
 
 ## Changes that I make
 
-These are the changes I make to Toothbleach and Orange:
+These are the key changes I make to Toothbleach and Orange:
 
 - Title font sizes smaller: H1 is 20, H2 is 18, H3-H6 are 16
 - Vertical space removed using https://github.com/tastapod/np-squash
 - SFPro font used
-- No title underlines in the Toothbleach theme
+- No title underlines
 - Orange titles in the Orange theme
+- Darker quote text in the Toothbleach theme
 
 ## How it works
 
@@ -99,7 +100,7 @@ The following filter files are provided:
 
 `theme-specific` folder:
 
-- `toothbleach.jq`: No additional changes.
+- `toothbleach.jq`: Darker colour in quotes for the Toothbleach theme.
 - `default.jq`: Orange titles in the Orange theme.
 
 
