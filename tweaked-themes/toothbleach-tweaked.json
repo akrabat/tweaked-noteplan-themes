@@ -154,11 +154,11 @@
     "schedule-from-date-link": {},
     "note-title-link": {},
     "hashtag": {
-      "backgroundColor": "#20E8A200",
+      "backgroundColor": "#000000FF",
       "paragraphSpacing": 0
     },
     "attag": {
-      "backgroundColor": "#20E8A200",
+      "backgroundColor": "#000000FF",
       "paragraphSpacing": 0
     },
     "phonenumber": {},
@@ -194,15 +194,17 @@
   },
   "tweakedBy": {
     "name": "np-tweak",
-    "date": "2025-08-31T14:34:50Z",
+    "date": "2025-08-31T16:53:36Z",
     "tweaks": [
       "squash.jq",
+      "no-underline-on-titles.jq",
+      "no-background-on-hash-or-at.jq",
       "text-size.jq",
       "toothbleach.jq"
     ]
   },
   "squashedBy": {
     "name": "np-squash",
-    "date": "2025-08-31T14:34:50Z"
+    "date": "2025-08-31T16:53:36Z"
   }
 }
