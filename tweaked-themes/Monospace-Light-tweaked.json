@@ -1,0 +1,80 @@
+{
+  "name": "Monospace-Light Tweaked",
+  "style": "Light",
+  "author": {
+    "name": "David Wertheimer - Not really author, more like surgeon",
+    "email": "hello@noteplan.co"
+  },
+  "editor": {
+    "backgroundColor": "#ffffff",
+    "altBackgroundColor": "#FAFFFF",
+    "tintColor": "#DD4C4F",
+    "tintColor2": "#DD4C4F",
+    "textColor": "#333333",
+    "toolbarBackgroundColor": "#F3F5F7",
+    "toolbarIconColor": "#dd4c4f",
+    "menuItemColor": "#dd4c4f",
+    "shouldOverwriteFont": false,
+    "font": "Menlo-Regular"
+  },
+  "styles": {
+    "body": {
+      "font": "Menlo-Regular",
+      "size": 16,
+      "color": "#444444",
+      "paragraphSpacing": 0
+    },
+    "tabbed": {
+      "paragraphSpacing": 0
+    },
+    "title-mark1": {
+      "paragraphSpacing": 3,
+      "size": 20
+    },
+    "title-mark2": {
+      "paragraphSpacing": 3,
+      "size": 18
+    },
+    "title-mark3": {
+      "paragraphSpacing": 3,
+      "size": 16
+    },
+    "title-mark4": {
+      "paragraphSpacing": 3,
+      "size": 16
+    },
+    "checked": {
+      "paragraphSpacing": 3
+    },
+    "todo": {
+      "paragraphSpacing": 3
+    },
+    "flagged-1": {
+      "paragraphSpacing": 3
+    },
+    "flagged-2": {
+      "paragraphSpacing": 3
+    },
+    "flagged-3": {
+      "paragraphSpacing": 3
+    },
+    "attag": {
+      "paragraphSpacing": 0
+    },
+    "hashtag": {
+      "paragraphSpacing": 0
+    }
+  },
+  "tweakedBy": {
+    "name": "np-tweak",
+    "date": "2025-08-31T14:34:49Z",
+    "tweaks": [
+      "squash.jq",
+      "text-size.jq"
+    ]
+  },
+  "squashedBy": {
+    "name": "np-squash",
+    "date": "2025-08-31T14:34:49Z"
+  }
+}

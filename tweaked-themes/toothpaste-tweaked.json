@@ -1,0 +1,211 @@
+{
+  "name": "Toothpaste Tweaked",
+  "style": "Dark",
+  "author": {
+    "name": "NotePlan",
+    "email": "hello@noteplan.co"
+  },
+  "editor": {
+    "backgroundColor": "#222E33",
+    "altBackgroundColor": "#2B3940",
+    "tintColor": "#E9C062",
+    "tintColor2": "#73B3C0",
+    "textColor": "#DAE3E8",
+    "toolbarBackgroundColor": "#2B3940",
+    "toolbarIconColor": "#c5c5c0",
+    "menuItemColor": "#c5c5c0",
+    "timeBlockColor": "#E9C062",
+    "shouldOverwriteFont": true
+  },
+  "styles": {
+    "body": {
+      "font": "AvenirNext-Regular",
+      "size": 16,
+      "color": "#DAE3E8",
+      "paragraphSpacing": 0
+    },
+    "title1": {
+      "color": "#DAE3E8",
+      "size": 20
+    },
+    "title2": {
+      "color": "#E9C062",
+      "size": 18
+    },
+    "title3": {
+      "color": "#E9C062",
+      "size": 16
+    },
+    "working-on": {
+      "backgroundColor": "#77bd93f9",
+      "color": "#E9DEF9"
+    },
+    "flagged-1": {
+      "backgroundColor": "#44ff5555",
+      "color": "#FFB5B5",
+      "paragraphSpacing": 3
+    },
+    "flagged-2": {
+      "backgroundColor": "#77ff5555",
+      "color": "#FFCCCC",
+      "paragraphSpacing": 3
+    },
+    "flagged-3": {
+      "backgroundColor": "#AAff5555",
+      "color": "#FFDBBE",
+      "paragraphSpacing": 3
+    },
+    "title-mark1": {
+      "color": "#66DAE3E8",
+      "size": 20,
+      "paragraphSpacing": 3
+    },
+    "title-mark2": {
+      "color": "#66E9C062",
+      "size": 18,
+      "paragraphSpacing": 3
+    },
+    "title-mark3": {
+      "color": "#66E9C062",
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "title4": {
+      "color": "#E9C062",
+      "size": 16,
+      "underlineStyle": 1
+    },
+    "title-mark4": {
+      "color": "#66E9C062",
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "bold": {
+      "color": "#CC6666",
+      "font": "AvenirNext-Bold"
+    },
+    "bold-left-mark": {
+      "color": "#66CC6666"
+    },
+    "bold-right-mark": {
+      "color": "#66CC6666"
+    },
+    "italic": {
+      "color": "#96CBFE",
+      "font": "AvenirNext-Italic"
+    },
+    "italic-left-mark": {
+      "color": "#6696CBFE"
+    },
+    "italic-right-mark": {
+      "color": "#6696CBFE"
+    },
+    "boldItalic": {
+      "font": "AvenirNext-BoldItalic"
+    },
+    "boldItalic-left-mark": {
+      "color": "#66CC6666"
+    },
+    "boldItalic-right-mark": {
+      "color": "#66CC6666"
+    },
+    "code": {
+      "font": "Menlo-Regular",
+      "color": "#B9B279",
+      "size": 15
+    },
+    "code-left-backtick": {
+      "color": "#66B9B279"
+    },
+    "code-right-backtick": {
+      "color": "#66B9B279"
+    },
+    "checked": {
+      "color": "#9DC777",
+      "headIndent": 33,
+      "paragraphSpacing": 3
+    },
+    "todo": {
+      "color": "#CC6666",
+      "headIndent": 33,
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "checked-todo-characters": {
+      "headIndent": 33,
+      "size": 16
+    },
+    "tabbed": {
+      "headIndent": 43,
+      "paragraphSpacing": 0
+    },
+    "quote-mark": {
+      "color": "#9DC777",
+      "headIndent": 33,
+      "size": 16
+    },
+    "quote-content": {
+      "color": "#c5c5c0",
+      "type": "italic",
+      "headIndent": 33
+    },
+    "link": {},
+    "schedule-to-date-link": {},
+    "done-date": {},
+    "schedule-from-date-link": {},
+    "note-title-link": {},
+    "hashtag": {
+      "backgroundColor": "#20E9C062",
+      "paragraphSpacing": 0
+    },
+    "attag": {
+      "backgroundColor": "#20E9C062",
+      "paragraphSpacing": 0
+    },
+    "phonenumber": {
+      "backgroundColor": "#7745A2E5"
+    },
+    "highlighted": {
+      "backgroundColor": "#44A2E2FF",
+      "color": "#D1F1FF"
+    },
+    "highlighted-left-marker": {
+      "color": "#40EAEAEA"
+    },
+    "highlighted-right-marker": {
+      "color": "#40EAEAEA"
+    },
+    "strikethrough": {
+      "color": "#AACBCCC6",
+      "strikethroughColor": "#CBCCC6"
+    },
+    "strikethrough-left-tilde": {
+      "color": "#66CBCCC6"
+    },
+    "strikethrough-right-tilde": {
+      "color": "#66CBCCC6"
+    },
+    "underline": {
+      "underlineStyle": 2,
+      "underlineColor": "#DAE3E8"
+    },
+    "underline-left-tilde": {
+      "color": "#66CBCCC6"
+    },
+    "underline-right-tilde": {
+      "color": "#66CBCCC6"
+    }
+  },
+  "tweakedBy": {
+    "name": "np-tweak",
+    "date": "2025-08-31T14:34:50Z",
+    "tweaks": [
+      "squash.jq",
+      "text-size.jq"
+    ]
+  },
+  "squashedBy": {
+    "name": "np-squash",
+    "date": "2025-08-31T14:34:50Z"
+  }
+}

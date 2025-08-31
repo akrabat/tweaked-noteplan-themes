@@ -1,0 +1,243 @@
+{
+  "name": "Solarized Light Tweaked",
+  "style": "Light",
+  "author": {
+    "name": "NotePlan",
+    "email": "hello@noteplan.co"
+  },
+  "editor": {
+    "backgroundColor": "#FDF6E3",
+    "altBackgroundColor": "#F5EEDC",
+    "tintColor": "#CB4D16",
+    "tintColor2": "#278BD3",
+    "textColor": "#50656B",
+    "toolbarBackgroundColor": "#E4E2D3",
+    "toolbarIconColor": "#586E75",
+    "menuItemColor": "#586E75",
+    "timeBlockColor": "#CB4D16",
+    "shouldOverwriteFont": false
+  },
+  "styles": {
+    "body": {
+      "font": "SFPro-Regular",
+      "size": 16,
+      "color": "#50656B",
+      "paragraphSpacing": 0,
+      "title1": {
+        "font": "SFPro-Light"
+      },
+      "title2": {
+        "font": "SFPro-Light"
+      },
+      "title3": {
+        "font": "SFPro-Light"
+      },
+      "title4": {
+        "font": "SFPro-Light"
+      },
+      "title5": {
+        "font": "SFPro-Light"
+      },
+      "title6": {
+        "font": "SFPro-Light"
+      },
+      "title-mark1": {
+        "font": "SFPro-Light"
+      },
+      "title-mark2": {
+        "font": "SFPro-Light"
+      },
+      "title-mark3": {
+        "font": "SFPro-Light"
+      },
+      "title-mark4": {
+        "font": "SFPro-Light"
+      },
+      "title-mark5": {
+        "font": "SFPro-Light"
+      },
+      "title-mark6": {
+        "font": "SFPro-Light"
+      }
+    },
+    "title1": {
+      "color": "#50656B",
+      "size": 20
+    },
+    "title2": {
+      "color": "#50656B",
+      "size": 18
+    },
+    "title3": {
+      "color": "#50656B",
+      "size": 16
+    },
+    "working-on": {
+      "backgroundColor": "#306600FF",
+      "color": "#17003B"
+    },
+    "flagged-1": {
+      "backgroundColor": "#22D04023",
+      "color": "#59000B",
+      "paragraphSpacing": 3
+    },
+    "flagged-2": {
+      "backgroundColor": "#40E3021D",
+      "color": "#420008",
+      "paragraphSpacing": 3
+    },
+    "flagged-3": {
+      "backgroundColor": "#6FFF0202",
+      "color": "#1F0004",
+      "paragraphSpacing": 3
+    },
+    "title-mark1": {
+      "color": "#4550656B",
+      "size": 20,
+      "paragraphSpacing": 3
+    },
+    "title-mark2": {
+      "color": "#4550656B",
+      "size": 18,
+      "paragraphSpacing": 3
+    },
+    "title-mark3": {
+      "color": "#4550656B",
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "title4": {
+      "color": "#50656B",
+      "size": 16,
+      "underlineStyle": 1
+    },
+    "title-mark4": {
+      "color": "#4550656B",
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "bold": {
+      "font": "SFPro-Semibold"
+    },
+    "bold-left-mark": {
+      "color": "#4550656B"
+    },
+    "bold-right-mark": {
+      "color": "#4550656B"
+    },
+    "italic": {
+      "font": "SFPro-RegularItalic"
+    },
+    "italic-left-mark": {
+      "color": "#4550656B"
+    },
+    "italic-right-mark": {
+      "color": "#4550656B"
+    },
+    "boldItalic": {
+      "font": "AvenirNext-BoldItalic"
+    },
+    "boldItalic-left-mark": {
+      "color": "#4550656B"
+    },
+    "boldItalic-right-mark": {
+      "color": "#4550656B"
+    },
+    "code": {
+      "font": "Menlo-Regular",
+      "color": "#278BD3",
+      "size": 15
+    },
+    "code-left-backtick": {
+      "color": "#66278BD3"
+    },
+    "code-right-backtick": {
+      "color": "#66278BD3"
+    },
+    "checked": {
+      "color": "#6650656B",
+      "headIndent": 33,
+      "paragraphSpacing": 3
+    },
+    "todo": {
+      "color": "#CB4D16",
+      "headIndent": 33,
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "checked-todo-characters": {
+      "headIndent": 33,
+      "size": 16
+    },
+    "tabbed": {
+      "headIndent": 43,
+      "paragraphSpacing": 0
+    },
+    "quote-mark": {
+      "color": "#80278BD3",
+      "headIndent": 33,
+      "size": 16
+    },
+    "quote-content": {
+      "color": "#50656B",
+      "type": "italic",
+      "headIndent": 33
+    },
+    "link": {},
+    "schedule-to-date-link": {},
+    "done-date": {},
+    "schedule-from-date-link": {},
+    "note-title-link": {},
+    "hashtag": {
+      "backgroundColor": "#20CB4D16",
+      "paragraphSpacing": 0
+    },
+    "attag": {
+      "backgroundColor": "#20CB4D16",
+      "paragraphSpacing": 0
+    },
+    "phonenumber": {},
+    "highlighted": {
+      "backgroundColor": "#6684FF00"
+    },
+    "highlighted-left-marker": {
+      "color": "#40000000"
+    },
+    "highlighted-right-marker": {
+      "color": "#40000000"
+    },
+    "strikethrough": {
+      "color": "#99333333",
+      "strikethroughColor": "#DD333333"
+    },
+    "strikethrough-left-tilde": {
+      "color": "#44333333"
+    },
+    "strikethrough-right-tilde": {
+      "color": "#44333333"
+    },
+    "underline": {
+      "underlineStyle": 2,
+      "underlineColor": "#FFCC66"
+    },
+    "underline-left-tilde": {
+      "color": "#44333333"
+    },
+    "underline-right-tilde": {
+      "color": "#44333333"
+    }
+  },
+  "tweakedBy": {
+    "name": "np-tweak",
+    "date": "2025-08-31T14:34:50Z",
+    "tweaks": [
+      "squash.jq",
+      "text-size.jq",
+      "font-sfpro.jq"
+    ]
+  },
+  "squashedBy": {
+    "name": "np-squash",
+    "date": "2025-08-31T14:34:50Z"
+  }
+}

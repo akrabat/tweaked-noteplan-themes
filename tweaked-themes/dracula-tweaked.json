@@ -1,0 +1,244 @@
+{
+  "name": "Dracula Tweaked",
+  "style": "Dark",
+  "author": {
+    "name": "NotePlan",
+    "email": "hello@noteplan.co"
+  },
+  "editor": {
+    "backgroundColor": "#282a36",
+    "altBackgroundColor": "#232530",
+    "tintColor": "#0FE9FF",
+    "tintColor2": "#FFB763",
+    "textColor": "#f8f8f2",
+    "toolbarBackgroundColor": "#464852",
+    "toolbarIconColor": "#F7F7EF",
+    "menuItemColor": "#F7F7EF",
+    "timeBlockColor": "#0FE9FF",
+    "shouldOverwriteFont": false
+  },
+  "styles": {
+    "body": {
+      "font": "SFPro-Regular",
+      "size": 16,
+      "color": "#F7F7EF",
+      "paragraphSpacing": 0,
+      "title1": {
+        "font": "SFPro-Light"
+      },
+      "title2": {
+        "font": "SFPro-Light"
+      },
+      "title3": {
+        "font": "SFPro-Light"
+      },
+      "title4": {
+        "font": "SFPro-Light"
+      },
+      "title5": {
+        "font": "SFPro-Light"
+      },
+      "title6": {
+        "font": "SFPro-Light"
+      },
+      "title-mark1": {
+        "font": "SFPro-Light"
+      },
+      "title-mark2": {
+        "font": "SFPro-Light"
+      },
+      "title-mark3": {
+        "font": "SFPro-Light"
+      },
+      "title-mark4": {
+        "font": "SFPro-Light"
+      },
+      "title-mark5": {
+        "font": "SFPro-Light"
+      },
+      "title-mark6": {
+        "font": "SFPro-Light"
+      }
+    },
+    "title1": {
+      "color": "#45F170",
+      "size": 20
+    },
+    "title2": {
+      "color": "#45F170",
+      "size": 18
+    },
+    "title3": {
+      "color": "#45F170",
+      "size": 16
+    },
+    "working-on": {
+      "backgroundColor": "#44f1fa8c",
+      "color": "#F5FAC1"
+    },
+    "flagged-1": {
+      "backgroundColor": "#44ff5555",
+      "color": "#FFB5B5",
+      "paragraphSpacing": 3
+    },
+    "flagged-2": {
+      "backgroundColor": "#77ff5555",
+      "color": "#FFCCCC",
+      "paragraphSpacing": 3
+    },
+    "flagged-3": {
+      "backgroundColor": "#AAff5555",
+      "color": "#FFDBBE",
+      "paragraphSpacing": 3
+    },
+    "title-mark1": {
+      "color": "#4045F170",
+      "size": 20,
+      "paragraphSpacing": 3
+    },
+    "title-mark2": {
+      "color": "#4045F170",
+      "size": 18,
+      "paragraphSpacing": 3
+    },
+    "title-mark3": {
+      "color": "#4045F170",
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "title4": {
+      "color": "#45F170",
+      "size": 16,
+      "underlineStyle": 1
+    },
+    "title-mark4": {
+      "color": "#4045F170",
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "bold": {
+      "font": "SFPro-Semibold"
+    },
+    "bold-left-mark": {
+      "color": "#40F7F7EF"
+    },
+    "bold-right-mark": {
+      "color": "#40F7F7EF"
+    },
+    "italic": {
+      "font": "SFPro-RegularItalic"
+    },
+    "italic-left-mark": {
+      "color": "#40F7F7EF"
+    },
+    "italic-right-mark": {
+      "color": "#40F7F7EF"
+    },
+    "boldItalic": {
+      "font": "AvenirNext-BoldItalic"
+    },
+    "boldItalic-left-mark": {
+      "color": "#40F7F7EF"
+    },
+    "boldItalic-right-mark": {
+      "color": "#40F7F7EF"
+    },
+    "code": {
+      "font": "Menlo-Regular",
+      "color": "#FFB763",
+      "size": 15
+    },
+    "code-left-backtick": {
+      "color": "#66FFB763"
+    },
+    "code-right-backtick": {
+      "color": "#66FFB763"
+    },
+    "checked": {
+      "color": "#55F7F7EF",
+      "headIndent": 33,
+      "paragraphSpacing": 3
+    },
+    "todo": {
+      "color": "#0FE9FF",
+      "headIndent": 33,
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "checked-todo-characters": {
+      "headIndent": 33,
+      "size": 16
+    },
+    "tabbed": {
+      "headIndent": 43,
+      "paragraphSpacing": 0
+    },
+    "quote-mark": {
+      "color": "#ccff79c6",
+      "headIndent": 33,
+      "size": 16
+    },
+    "quote-content": {
+      "color": "#ccf8f8f2",
+      "type": "italic",
+      "headIndent": 33
+    },
+    "link": {},
+    "schedule-to-date-link": {},
+    "done-date": {},
+    "schedule-from-date-link": {},
+    "note-title-link": {},
+    "hashtag": {
+      "backgroundColor": "#200FE9FF",
+      "paragraphSpacing": 0
+    },
+    "attag": {
+      "backgroundColor": "#200FE9FF",
+      "paragraphSpacing": 0
+    },
+    "phonenumber": {},
+    "highlighted": {
+      "backgroundColor": "#77bd93f9",
+      "color": "#EADBFF"
+    },
+    "highlighted-left-marker": {
+      "color": "#40EAEAEA"
+    },
+    "highlighted-right-marker": {
+      "color": "#40EAEAEA"
+    },
+    "strikethrough": {
+      "color": "#AACBCCC6",
+      "strikethroughColor": "#CBCCC6"
+    },
+    "strikethrough-left-tilde": {
+      "color": "#66CBCCC6"
+    },
+    "strikethrough-right-tilde": {
+      "color": "#66CBCCC6"
+    },
+    "underline": {
+      "underlineStyle": 2,
+      "underlineColor": "#50fa7b"
+    },
+    "underline-left-tilde": {
+      "color": "#66CBCCC6"
+    },
+    "underline-right-tilde": {
+      "color": "#66CBCCC6"
+    }
+  },
+  "tweakedBy": {
+    "name": "np-tweak",
+    "date": "2025-08-31T14:34:49Z",
+    "tweaks": [
+      "squash.jq",
+      "text-size.jq",
+      "font-sfpro.jq"
+    ]
+  },
+  "squashedBy": {
+    "name": "np-squash",
+    "date": "2025-08-31T14:34:49Z"
+  }
+}

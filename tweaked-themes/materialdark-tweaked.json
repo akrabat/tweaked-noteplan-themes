@@ -1,0 +1,250 @@
+{
+  "name": "Material Tweaked",
+  "style": "Dark",
+  "author": {
+    "name": "Peter B\u00f6ttges",
+    "twitter-url": "https://www.twitter.com/boettges"
+  },
+  "editor": {
+    "backgroundColor": "#212121",
+    "altBackgroundColor": "#353A3D",
+    "tintColor": "#83AAFF",
+    "tintColor2": "#C3E88D",
+    "textColor": "#EEFFFF",
+    "toolbarBackgroundColor": "#1A1A1A",
+    "toolbarIconColor": "#65737E",
+    "menuItemColor": "#65737E",
+    "timeBlockColor": "#83AAFF",
+    "shouldOverwriteFont": false
+  },
+  "styles": {
+    "body": {
+      "font": "SFPro-Regular",
+      "size": 16,
+      "color": "#EEFFFF",
+      "paragraphSpacing": 0,
+      "title1": {
+        "font": "SFPro-Light"
+      },
+      "title2": {
+        "font": "SFPro-Light"
+      },
+      "title3": {
+        "font": "SFPro-Light"
+      },
+      "title4": {
+        "font": "SFPro-Light"
+      },
+      "title5": {
+        "font": "SFPro-Light"
+      },
+      "title6": {
+        "font": "SFPro-Light"
+      },
+      "title-mark1": {
+        "font": "SFPro-Light"
+      },
+      "title-mark2": {
+        "font": "SFPro-Light"
+      },
+      "title-mark3": {
+        "font": "SFPro-Light"
+      },
+      "title-mark4": {
+        "font": "SFPro-Light"
+      },
+      "title-mark5": {
+        "font": "SFPro-Light"
+      },
+      "title-mark6": {
+        "font": "SFPro-Light"
+      }
+    },
+    "title1": {
+      "color": "#89DDFF",
+      "size": 20
+    },
+    "title2": {
+      "color": "#89DDFF",
+      "size": 18
+    },
+    "title3": {
+      "color": "#89DDFF",
+      "size": 16
+    },
+    "working-on": {
+      "backgroundColor": "#77bd93f9",
+      "color": "#E9DEF9"
+    },
+    "flagged-1": {
+      "backgroundColor": "#44ff5555",
+      "color": "#FFB5B5",
+      "paragraphSpacing": 3
+    },
+    "flagged-2": {
+      "backgroundColor": "#77ff5555",
+      "color": "#FFCCCC",
+      "paragraphSpacing": 3
+    },
+    "flagged-3": {
+      "backgroundColor": "#AAff5555",
+      "color": "#FFDBBE",
+      "paragraphSpacing": 3
+    },
+    "title-mark1": {
+      "color": "#82AAFF",
+      "size": 20,
+      "paragraphSpacing": 3
+    },
+    "title-mark2": {
+      "color": "#82AAFF",
+      "size": 18,
+      "paragraphSpacing": 3
+    },
+    "title-mark3": {
+      "color": "#82AAFF",
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "title4": {
+      "color": "#89DDFF",
+      "size": 16,
+      "underlineStyle": 1
+    },
+    "title-mark4": {
+      "color": "#82AAFF",
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "bold": {
+      "font": "SFPro-Semibold",
+      "color": "#89DDFF"
+    },
+    "bold-left-mark": {
+      "color": "#65737E"
+    },
+    "bold-right-mark": {
+      "color": "#65737E"
+    },
+    "italic": {
+      "font": "SFPro-RegularItalic",
+      "color": "#89DDFF"
+    },
+    "italic-left-mark": {
+      "color": "#65737E"
+    },
+    "italic-right-mark": {
+      "color": "#65737E"
+    },
+    "boldItalic": {
+      "font": "AvenirNext-DemiBoldItalic",
+      "color": "#89DDFF"
+    },
+    "boldItalic-left-mark": {
+      "color": "#65737E"
+    },
+    "boldItalic-right-mark": {
+      "color": "#65737E"
+    },
+    "code": {
+      "font": "Menlo-Regular",
+      "color": "#C3E88D",
+      "size": 15
+    },
+    "code-left-backtick": {
+      "color": "#66C3E88D"
+    },
+    "code-right-backtick": {
+      "color": "#66C3E88D"
+    },
+    "checked": {
+      "color": "#C3E88D",
+      "headIndent": 33,
+      "paragraphSpacing": 3
+    },
+    "done": {
+      "color": "#C3E88D"
+    },
+    "todo": {
+      "color": "#83AAFF",
+      "headIndent": 33,
+      "size": 16,
+      "paragraphSpacing": 3
+    },
+    "checked-todo-characters": {
+      "headIndent": 33,
+      "size": 16
+    },
+    "tabbed": {
+      "headIndent": 43,
+      "paragraphSpacing": 0
+    },
+    "quote-mark": {
+      "color": "#FF5370",
+      "headIndent": 33,
+      "size": 16
+    },
+    "quote-content": {
+      "color": "#C8C9C9",
+      "type": "italic",
+      "headIndent": 33
+    },
+    "link": {},
+    "schedule-to-date-link": {},
+    "done-date": {},
+    "schedule-from-date-link": {},
+    "note-title-link": {},
+    "hashtag": {
+      "backgroundColor": "#2083AAFF",
+      "paragraphSpacing": 0
+    },
+    "attag": {
+      "backgroundColor": "#2083AAFF",
+      "paragraphSpacing": 0
+    },
+    "phonenumber": {},
+    "highlighted": {
+      "backgroundColor": "#6683AAFF",
+      "color": "#CFDEFF"
+    },
+    "highlighted-left-marker": {
+      "color": "#40EAEAEA"
+    },
+    "highlighted-right-marker": {
+      "color": "#40EAEAEA"
+    },
+    "strikethrough": {
+      "color": "#AACBCCC6",
+      "strikethroughColor": "#CBCCC6"
+    },
+    "strikethrough-left-tilde": {
+      "color": "#66CBCCC6"
+    },
+    "strikethrough-right-tilde": {
+      "color": "#66CBCCC6"
+    },
+    "underline": {
+      "underlineStyle": 2,
+      "underlineColor": "#89DDFF"
+    },
+    "underline-left-tilde": {
+      "color": "#66CBCCC6"
+    },
+    "underline-right-tilde": {
+      "color": "#66CBCCC6"
+    }
+  },
+  "tweakedBy": {
+    "name": "np-tweak",
+    "date": "2025-08-31T14:34:49Z",
+    "tweaks": [
+      "squash.jq",
+      "text-size.jq",
+      "font-sfpro.jq"
+    ]
+  },
+  "squashedBy": {
+    "name": "np-squash",
+    "date": "2025-08-31T14:34:49Z"
+  }
+}

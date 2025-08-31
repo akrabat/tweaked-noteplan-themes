@@ -145,3 +145,4 @@ For SetApp version:
 ## Copyright
 
 - tweaks/squash.jq is copyright (c) Daniel Terhorst-North
+- Files in `tweaked-themes` are copyright (c) their respective authors
