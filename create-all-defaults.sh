@@ -31,6 +31,8 @@ for theme_file in "$base_dir"/*.json; do
                 --variable title1_size=20 \
                 --variable body_size=None \
                 --tweak "tweaks/squash.jq" \
+                --tweak "tweaks/no-underline-on-titles.jq" \
+                --tweak "tweaks/no-background-on-hash-or-at.jq" \
                 --tweak "tweaks/text-size.jq" \
                 --tweak "theme-specific/$basename.jq" \
                 "$base_dir/$basename.json"

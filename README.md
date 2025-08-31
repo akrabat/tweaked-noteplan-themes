@@ -37,6 +37,8 @@ The `tweak-from-default.sh` script shows how I use it:
     --variable title1_size=20 \
     --variable body_size=None \
     --tweak "tweaks/squash.jq" \
+    --tweak "tweaks/no-underline-on-titles.jq" \
+    --tweak "tweaks/no-background-on-hash-or-at.jq" \
     --tweak "tweaks/text-size.jq" \
     --tweak "tweaks/font-sfpro.jq" \
     --tweak "theme-specific/$theme.jq" \
@@ -89,13 +91,15 @@ The following filter files are provided:
 
 - `font-sfpro.jq`: Sets the font to SFPro
 - `font-user-from-settings.jq`: Enables control of the font from NotePlan's Editor settings
+- `no-underline-on-titles.jq`: Turns off underlines on all titles
+- `no-background-on-hash-or-at.jq`: Makes background transparent for # and @ tags
 - `squash.jq`: Vertical space removal from https://github.com/tastapod/np-squash
 - `text-size.jq`: Body and title font sizes set based on variables
 
 
 `theme-specific` folder:
 
-- `toothbleach.jq`: No title underlines in the Toothbleach theme.
+- `toothbleach.jq`: No additional changes.
 - `default.jq`: Orange titles in the Orange theme.
 
 
