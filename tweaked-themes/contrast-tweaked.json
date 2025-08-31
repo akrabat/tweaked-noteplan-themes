@@ -22,55 +22,22 @@
       "font": "SFPro-Regular",
       "size": 16,
       "color": "#000000",
-      "paragraphSpacing": 0,
-      "title1": {
-        "font": "SFPro-Light"
-      },
-      "title2": {
-        "font": "SFPro-Light"
-      },
-      "title3": {
-        "font": "SFPro-Light"
-      },
-      "title4": {
-        "font": "SFPro-Light"
-      },
-      "title5": {
-        "font": "SFPro-Light"
-      },
-      "title6": {
-        "font": "SFPro-Light"
-      },
-      "title-mark1": {
-        "font": "SFPro-Light"
-      },
-      "title-mark2": {
-        "font": "SFPro-Light"
-      },
-      "title-mark3": {
-        "font": "SFPro-Light"
-      },
-      "title-mark4": {
-        "font": "SFPro-Light"
-      },
-      "title-mark5": {
-        "font": "SFPro-Light"
-      },
-      "title-mark6": {
-        "font": "SFPro-Light"
-      }
+      "paragraphSpacing": 0
     },
     "title1": {
       "color": "#000000",
-      "size": 20
+      "size": 20,
+      "font": "SFPro-Light"
     },
     "title2": {
       "color": "#000000",
-      "size": 18
+      "size": 18,
+      "font": "SFPro-Light"
     },
     "title3": {
       "color": "#000000",
-      "size": 16
+      "size": 16,
+      "font": "SFPro-Light"
     },
     "working-on": {
       "backgroundColor": "#306600FF",
@@ -94,26 +61,31 @@
     "title-mark1": {
       "color": "#45000000",
       "size": 20,
-      "paragraphSpacing": 3
+      "paragraphSpacing": 3,
+      "font": "SFPro-Light"
     },
     "title-mark2": {
       "color": "#45000000",
       "size": 18,
-      "paragraphSpacing": 3
+      "paragraphSpacing": 3,
+      "font": "SFPro-Light"
     },
     "title-mark3": {
       "color": "#45000000",
       "size": 16,
-      "paragraphSpacing": 3
+      "paragraphSpacing": 3,
+      "font": "SFPro-Light"
     },
     "title4": {
       "color": "#000000",
-      "size": 16
+      "size": 16,
+      "font": "SFPro-Light"
     },
     "title-mark4": {
       "color": "#45000000",
       "size": 16,
-      "paragraphSpacing": 3
+      "paragraphSpacing": 3,
+      "font": "SFPro-Light"
     },
     "bold": {
       "font": "SFPro-Semibold"
@@ -134,7 +106,7 @@
       "color": "#45000000"
     },
     "boldItalic": {
-      "font": "AvenirNext-BoldItalic"
+      "font": "SFPro-SemiboldItalic"
     },
     "boldItalic-left-mark": {
       "color": "#45000000"
@@ -224,11 +196,23 @@
     },
     "underline-right-tilde": {
       "color": "#44333333"
+    },
+    "title5": {
+      "font": "SFPro-Light"
+    },
+    "title6": {
+      "font": "SFPro-Light"
+    },
+    "title-mark5": {
+      "font": "SFPro-Light"
+    },
+    "title-mark6": {
+      "font": "SFPro-Light"
     }
   },
   "tweakedBy": {
     "name": "np-tweak",
-    "date": "2025-08-31T16:53:35Z",
+    "date": "2025-08-31T17:00:20Z",
     "tweaks": [
       "squash.jq",
       "no-underline-on-titles.jq",
@@ -239,6 +223,6 @@
   },
   "squashedBy": {
     "name": "np-squash",
-    "date": "2025-08-31T16:53:35Z"
+    "date": "2025-08-31T17:00:20Z"
   }
 }
