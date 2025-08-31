@@ -144,7 +144,7 @@
       "size": 16
     },
     "quote-content": {
-      "color": "#A3A39E",
+      "color": "#555555",
       "type": "italic",
       "headIndent": 33
     },
@@ -194,7 +194,7 @@
   },
   "tweakedBy": {
     "name": "np-tweak",
-    "date": "2025-08-31T17:00:21Z",
+    "date": "2025-08-31T17:56:47Z",
     "tweaks": [
       "squash.jq",
       "no-underline-on-titles.jq",
@@ -205,6 +205,6 @@
   },
   "squashedBy": {
     "name": "np-squash",
-    "date": "2025-08-31T17:00:21Z"
+    "date": "2025-08-31T17:56:47Z"
   }
 }
